@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# ESP-IDF build output / backups
+build/
+managed_components/
+sdkconfig.old
+
+# Flash Download Tool temp files
+**/flash_download_tool/dl_temp/
+**/flash_download_tool/logs/
+
+# Large videos (GitHub limit 100MB) - share via Releases
+1-Demo/4.3 TF card video file/MJPEG/weijing_4880_18fps.avi
